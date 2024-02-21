@@ -1,6 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Ozan Er</h1>
 <h3 align="center">Software Consultant & Founder at Phonyloops</h3>
+
+- 🔭 I’m currently working on **Swift**
+
+- 💬 Ask me about **Software Consultant**
+
+- 📫 How to reach me **ozan.er@phonyloops.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
