@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozan Er</h1>
-<h3 align="center">Software Consultant & Founder at Phonyloops</h3>
+<h3 align="center">Product Manager & Founder at Phonyloops</h3>
 
 - 🔭 I’m currently working on **Swift**
 
